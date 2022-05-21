@@ -1,0 +1,10 @@
+#user-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.userStyle{
+    border: 3px solid goldenrod;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 10px;
+}
